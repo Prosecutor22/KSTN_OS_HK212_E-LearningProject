@@ -3,20 +3,8 @@
  "name": "User",
  "fields": [
   {
-     "name": "RollNumber", 
+     "name": "RollNumber,ApplicantName,Online C,Online O", 
      "type": "string"
-  },
-  {
-     "name": "ApplicantName", 
-     "type": "string"
-  },
-  {
-     "name": "Online C", 
-     "type": "int"
-  },
-  {
-     "name": "Online O", 
-     "type": "int"
   }
  ]
 }
