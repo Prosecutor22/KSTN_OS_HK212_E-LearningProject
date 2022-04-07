@@ -3,8 +3,8 @@
  "name": "SpecificRecordConvertTest",
  "fields": [
      {"name": "RollNumber", "type": "string"},
-     {"name": "ApplicantName", "type": "string"}
-     {"name": "Online C", "type": "int"}
-     {"name": "Online O", "type": "int"}
+     {"name": "ApplicantName", "type": "string"},
+     {"name": "Online C", "type": "int"},
+     {"name": "Online O", "type": "int"},
  ]
 }
