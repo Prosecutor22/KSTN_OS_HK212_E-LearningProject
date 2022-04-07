@@ -1,10 +1,22 @@
-{"namespace": "tech.allegro.schema.json2avro.converter",
+{"namespace": "example.avro",
  "type": "record",
- "name": "minhpp",
+ "name": "User",
  "fields": [
-     {"name": "RollNumber", "type": "string"},
-     {"name": "ApplicantName", "type": "string"},
-     {"name": "Online C", "type": "int"},
-     {"name": "Online O", "type": "int"}
+  {
+     "name": "RollNumber", 
+     "type": "string"
+  },
+  {
+     "name": "ApplicantName", 
+     "type": "string"
+  },
+  {
+     "name": "Online C", 
+     "type": "int"
+  },
+  {
+     "name": "Online O", 
+     "type": "int"
+  }
  ]
 }
