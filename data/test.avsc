@@ -2,7 +2,9 @@
  "type": "record",
  "name": "SpecificRecordConvertTest",
  "fields": [
-     {"name": "test", "type": "string"},
-     {"name": "enumTest", "type": { "type": "enum", "name": "status", "symbols": ["s1", "s2"]}}
+     {"name": "RollNumber", "type": "string"},
+     {"name": "ApplicantName", "type": "string"}
+     {"name": "Online C", "type": "int"}
+     {"name": "Online O", "type": "int"}
  ]
 }
